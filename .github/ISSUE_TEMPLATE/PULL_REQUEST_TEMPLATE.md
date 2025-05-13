@@ -1,7 +1,7 @@
 ---
 name: PR 요청
 about: 이슈의 내용을 작업한 내용을 PR요청합니다
-title: "[PR 요청] Pull Request 요청 합니다"
+title: '[PR 요청] Pull Request 요청 합니다'
 ---
 
 ## PR 유형
